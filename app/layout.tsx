@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "贪吃蛇游戏2",
+  title: "贪吃蛇游戏3",
   description: "一个简单有趣的贪吃蛇游戏",
     generator: 'v0.dev'
 }
